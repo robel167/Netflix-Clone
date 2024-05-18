@@ -47,6 +47,7 @@ const Footer = () => {
                     <p>Service Code</p>
                 </div>
                 <div className="copy-write">&copy; 1997-2024 Netflix, Inc.</div>
+                <dic className="dev">Developed by Robel</dic>
             </div>
         </div>
     );
